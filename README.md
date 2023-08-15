@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi, I'm Vũ Đức Nguyên 👋
+- **I’m interested in Frontend Web Fresher 👀**
+- **_📫 How to reach me :_**
+- Gmail: vuducnguyenvb@gmail.com
+- [Facebook](https://www.facebook.com/vuducnguyenvbhp/)
 <!--
 **nguyen2k1/nguyen2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
